@@ -2,8 +2,6 @@
 using ChallengeJson.Solutions;
 using Newtonsoft.Json;
 
-
-
 Console.WriteLine("Enter a quantity of random values for Numbers: ");
 int quantity = Convert.ToInt32(Console.ReadLine());
 

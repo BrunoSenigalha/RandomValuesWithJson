@@ -23,17 +23,8 @@ namespace ChallengeJson.Entities
             {
                 var index = random.Next(letters.Length);
 
-                RandomMixed[i] = random.Next(2) == 0? Convert
-                    .ToString(random.Next(101)):letters[index];
-                //if (random.Next(2) == 0)
-                //{
-                //    RandomMixed[i] = Convert.ToString(random.Next(101));
-                //}
-                //else
-                //{
-                //    var index = random.Next(letters.Length);
-                //    RandomMixed[i] = letters[index];
-                //}
+                RandomMixed[i] = random.Next(2) == 0 ? Convert
+                    .ToString(random.Next(101)) : letters[index];
             }
 
             return RandomMixed;
