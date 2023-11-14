@@ -1,0 +1,34 @@
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.exe
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.deps.json
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.runtimeconfig.json
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.pdb
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.AssemblyReference.cache
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.AssemblyInfoInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.AssemblyInfo.cs
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.CoreCompileInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.CopyComplete
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\refint\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.pdb
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.genruntimeconfig.cache
+C:\Users\Daiane Dias\Desktop\C#\Curso Nelio Alves\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ref\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.exe
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.deps.json
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.runtimeconfig.json
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\ChallengeJson.pdb
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.AssemblyReference.cache
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.AssemblyInfoInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.AssemblyInfo.cs
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.CoreCompileInputs.cache
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.csproj.CopyComplete
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\refint\ChallengeJson.dll
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.pdb
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ChallengeJson.genruntimeconfig.cache
+C:\Users\Daiane Dias\Desktop\C#\Desafios\ChallengeJson\ChallengeJson\obj\Debug\net7.0\ref\ChallengeJson.dll
