@@ -9,15 +9,15 @@ namespace ChallengeJson.Entities
 {
     public class Number
     {
-        public int[] RandomNumbers { get; set; }
-        public void GeneratingRandomNumbers(int quantity)
+        public static int[] GeneratingRandomNumbers(int quantity)
         {
-            RandomNumbers = new int[quantity];
+            int[] RandomNumbers = new int[quantity];
             var rand = new Random();
 
             for (int i = 0; i < quantity; i++)
                 RandomNumbers[i] = rand.Next(101);
 
+            return RandomNumbers;
         }
     }
 }

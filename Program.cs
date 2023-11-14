@@ -1,39 +1,30 @@
 ﻿using ChallengeJson.Entities;
+using ChallengeJson.Solutions;
 using Newtonsoft.Json;
 
-Number numbers = new Number();
+
 
 Console.WriteLine("Enter a quantity of random values for Numbers: ");
 int quantity = Convert.ToInt32(Console.ReadLine());
 
-numbers.GeneratingRandomNumbers(quantity);
+JsonGenerator jsonGenerator = new JsonGenerator(Letter.GeneratingRandomLetters(quantity), 
+                                                Number.GeneratingRandomNumbers(quantity),
+                                                 Mixed.GeneratingMixedValues(quantity));
 
-string serializedNumbers = JsonConvert.SerializeObject(numbers);
+string serialized = JsonConvert.SerializeObject(jsonGenerator, Formatting.Indented);
+Console.WriteLine(serialized);
 
-Console.WriteLine(serializedNumbers);
+try
+{
+    using (StreamWriter sw = new StreamWriter("C:\\Users\\Daiane Dias\\Desktop\\C#\\Desafios\\PastaJson\\Log.txt"))
+    {
+        sw.WriteLine(serialized.ToString());
+    }
 
-Letter letters = new Letter();
-letters.GeneratingRandomLetters(quantity);
-string serializedLetters = JsonConvert.SerializeObject(letters);
-
-Console.WriteLine(serializedLetters);
-
-Mixed mixed = new Mixed();
-mixed.GeneratingMixedValues(quantity);
-
-string serializedMixed = JsonConvert.SerializeObject(mixed);
-Console.WriteLine(serializedMixed);
-//try
-//{
-//    using (StreamWriter sw = new StreamWriter("C:\\Users\\Daiane Dias\\Desktop\\C#\\Desafios\\PastaJson\\Log.json"))
-//    {
-//        sw.WriteLine(serializedNumbers.ToString());
-//    }
-
-//}
-//catch (IOException e)
-//{
-//    Console.WriteLine("An error occurred: ", e);
-//}
+}
+catch (IOException e)
+{
+    Console.WriteLine("An error occurred: ", e);
+}
 
 

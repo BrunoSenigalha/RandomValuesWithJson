@@ -8,10 +8,11 @@ namespace ChallengeJson.Entities
 {
     public class Letter
     {
-        public string[] RandomLetters;
-        public void GeneratingRandomLetters(int quantity)
+        
+        public static string[] GeneratingRandomLetters(int quantity)
         {
-            RandomLetters = new string[quantity];
+            string[] RandomLetters = new string[quantity];
+
             string[] letters = { "A","B","C","D","E","F","G","H","I",
                                 "J","K","L","M","N","O","P","Q","R","S",
                                 "T","U","V","X","Z","W","Y"};
@@ -27,6 +28,8 @@ namespace ChallengeJson.Entities
                 var index = random.Next(letters.Length);
                 RandomLetters[i] = letters[index];
             }
+
+           return RandomLetters;
         }
     }
 }
